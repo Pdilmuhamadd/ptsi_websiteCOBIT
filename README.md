@@ -18,4 +18,13 @@ Aplikasi ini dirancang untuk mendigitalisasi proses tata kelola IT menggunakan f
 - **Efficient Data Management:** Sistem database MySQL yang terstruktur untuk penyimpanan dan pengambilan data audit yang cepat (CRUD).
 - **PDF Reporting:** Fitur generate laporan hasil audit otomatis (Work in Progress).
 
+## Screenshot
+<img width="1366" height="768" alt="Screenshot 2025-11-12 153503" src="https://github.com/user-attachments/assets/56bf7e99-e38e-4235-890d-d5ddfde1cc6d" />
+<img width="1366" height="768" alt="Screenshot 2025-11-12 153708" src="https://github.com/user-attachments/assets/0f25d35b-ebd3-4d0a-931f-3e8a686dafea" />
+<img width="1366" height="768" alt="Screenshot 2025-11-12 154130" src="https://github.com/user-attachments/assets/a0512bba-1fb0-43ff-b6da-2f17c3ea38d3" />
+
+
+
+
 FROM TEMPLATE : **https://github.com/nursandiid/tutorial-membuat-aplikasi-point-of-sales**
+
